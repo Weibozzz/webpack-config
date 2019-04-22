@@ -6,3 +6,7 @@ body {
   color: white;
   background-color: black;
 }
+.flex{
+  display: flex;
+  user-select: none;
+}
